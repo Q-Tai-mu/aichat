@@ -1,0 +1,15 @@
+Formatted date: [ 6/16/2023:15:19]结束：Loading complete!
+Formatted date: [ 6/16/2023:15:19]提问：我热爱足球，我想知道，你对足球的看法。
+Formatted date: [ 6/16/2023:15:19]回答：我也喜欢足球，足球是一种很有趣的运动。你最喜欢哪个足球队或球员呢？ 我也喜欢足球，足球是一种很有趣的运动。你最喜欢哪个足球队或球员呢？
+Formatted date: [ 6/16/2023:15:19]提问：爱情，是伟大的不是吗
+Formatted date: [ 6/16/2023:15:19]回答：爱情是美好的，你不觉得吗？
+Formatted date: [ 6/16/2023:15:20]提问：帮我扫描磁盘$[D:\360downloads]$
+Formatted date: [ 6/16/2023:15:20]回答：Scanning directory...
+Formatted date: [ 6/16/2023:15:21]回答：我知道一个笑话，你想听吗？
+Formatted date: [ 6/16/2023:15:21]提问：你有笑话吗
+Formatted date: [ 6/16/2023:15:58]结束：Loading complete!
+Formatted date: [ 6/16/2023:15:58]提问：我热爱足球，你呢热爱足球不
+Formatted date: [ 6/16/2023:15:58]回答：我也喜欢足球，足球是一种很有趣的运动。你最喜欢哪个足球队或球员呢？
+Formatted date: [ 6/16/2023:16:02]结束：Loading complete!
+Formatted date: [ 6/16/2023:16:03]提问：bye
+Formatted date: [ 6/16/2023:16:03]结束：Loading complete!

@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "natural": "^6.3.0",
+    "node-notifier": "^10.0.1",
+    "nodejieba": "^2.6.0"
+  }
+}
